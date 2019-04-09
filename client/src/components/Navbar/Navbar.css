@@ -1,0 +1,31 @@
+#logo {
+  height: 80%;
+}
+.ant-menu-dark .ant-menu-item > a {
+  color: rgba(255, 255, 255, 0.822);
+  font-weight: 450;
+}
+.ant-menu-dark .ant-menu-item > a:hover {
+  color: #fff;
+}
+.ant-menu.ant-menu-dark .ant-menu-item-selected > a,
+.ant-menu-submenu-popup.ant-menu-dark .ant-menu-item-selected > a {
+  color: #52c41a;
+}
+.ant-menu.ant-menu-dark .ant-menu-item-selected,
+.ant-menu-submenu-popup.ant-menu-dark .ant-menu-item-selected {
+  background-color: transparent;
+}
+#avatar {
+  display: inline-block;
+  height: 40px;
+  border-radius: 100%;
+}
+
+#avatar > img {
+  vertical-align: middle;
+}
+.nav-wrapper {
+  padding-left: 100px;
+  padding-right: 100px;
+}
