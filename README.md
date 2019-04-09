@@ -22,7 +22,7 @@ Replace oauth_client_id and oauth_client_secret with your id and secret in confi
 
 ### npm i
 
-###node index.js
+### node index.js
 
 In the app directory, run
 
